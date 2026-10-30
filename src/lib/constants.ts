@@ -1,0 +1,1 @@
+export const HARGA_TAHU_PER_PAPAN = 45000;
